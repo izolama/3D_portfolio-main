@@ -50,8 +50,7 @@ const Projects = () => {
                   rel="noopener noreferrer"
                   className="font-semibold text-blue-600"
                 >
-                  The source code is proprietary and restricted for internal use
-                  only
+                  Link Vidoes In Youtube
                 </Link>
               </div>
 

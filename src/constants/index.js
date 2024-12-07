@@ -172,7 +172,7 @@ export const projects = [
     name: 'Self Service Top-Up',
     description:
       'This app facilitates balance top-ups for visitors at tourist destinations, allowing them to independently recharge their balance on-site.',
-    link: 'https://github.com/izolama',
+    link: 'https://www.youtube.com/watch?v=DwFn_wJe_uE&t=51s',
     videoUrl: 'DwFn_wJe_uE', // Include a valid URL for the video
   },
   {
@@ -181,7 +181,7 @@ export const projects = [
     name: 'EDC Parking',
     description:
       'This app also supports offline mode, on-road, off-road, and valet modes, and has been widely accepted in parking facilities.',
-    link: 'https://github.com/izolama',
+    link: 'https://www.youtube.com/shorts/Tb6LB83X5p8',
     videoUrl: 'Tb6LB83X5p8', // Include a valid URL for the video
   },
   {
@@ -190,7 +190,7 @@ export const projects = [
     name: 'POS (Point Of Sale)',
     description:
       'It provides a modern POS solution integrated with devices dekstop , tablet and EDC terminals, offering flexibility in managing transactions and enhancing the user experience.',
-    link: 'https://github.com/izolama',
+    link: 'https://www.youtube.com/watch?v=sjBtvpdC-O8&t=7s',
     videoUrl: 'sjBtvpdC-O8', // Include a valid URL for the video
   },
   {
@@ -199,7 +199,7 @@ export const projects = [
     name: 'Edc Redeem Ticket',
     description:
       'It is commonly used at sporting events such as basketball games and tourist attractions, supporting PDT devices and ticket scanning capabilities.',
-    link: 'https://github.com/izolama',
+    link: 'https://www.youtube.com/shorts/2j5ieM6Jua4',
     videoUrl: '2j5ieM6Jua4', // Include a valid URL for the video
   },
 ];
